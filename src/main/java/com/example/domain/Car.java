@@ -2,14 +2,14 @@ package com.example.domain;
 
 public class Car {
 
-	private String name2;
+	private String name4;
 
 	public String getName() {
-		return name2;
+		return name4;
 	}
 
 	public void setName(String name) {
-		this.name2 = name;
+		this.name4 = name;
 	}
 	
 	
